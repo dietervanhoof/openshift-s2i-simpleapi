@@ -1,0 +1,14 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "API that returns random stuff",
+  "main": "index.js",
+  "author": "Dieter Van Hoof",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
